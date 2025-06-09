@@ -32,7 +32,7 @@ export default defineConfig({
         {
           text: 'Vue',
           collapsed: true,
-          items: [{ text: '指令', link: '/frontend/Vue/Inlstruction.md' }],
+          items: [{ text: '基础', link: '/frontend/Vue/base.md' }],
         },
         {
           text: 'React',
