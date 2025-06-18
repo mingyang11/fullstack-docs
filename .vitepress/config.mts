@@ -61,7 +61,14 @@ export default defineConfig({
         {
           text: 'uniapp',
           collapsed: true,
-          items: [{ text: 'umiapp', link: '/mobile/umiapp.md' }],
+          items: [{ text: 'uniapp', link: '/mobile/umiapp.md' }],
+        },
+        {
+          text: '小程序',
+          collapsed: true,
+          items: [
+            { text: '日常问题集锦', link: '/mobile/MiniProgram/question.md' },
+          ],
         },
         {
           text: 'H5',
